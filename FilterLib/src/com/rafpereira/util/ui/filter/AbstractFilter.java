@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 /**
- * Abstract class that implements some standard methods for filters.
+ * Abstract filter, that implements some standard methods for filters.
  * @author rafaeldearaujopereira
  * @since 1.0
  * @version 1.0
