@@ -17,14 +17,5 @@
         </configuration>
       </plugin>
     </plugins>
-  </build>  
-  <distributionManagement>
-    <repository>
-      <id>github</id>
-      <name>filter-lib</name>
-      <url>https://maven.pkg.github.com/rafaeldearaujopereira/filter-lib</url>
-    </repository>
-  </distributionManagement>
-  
-  
+  </build>
 </project>
